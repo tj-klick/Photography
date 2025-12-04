@@ -5,13 +5,8 @@ A collection of my product photography, PC Builds and 3D Prints
 ## Product Shots
 <img src="Product%20Shots/Gigabyte9070XT1.1.jpg" width="500"> <img src="Product%20Shots/MAONOpd100w1.jpg" width="500">
 
-
-
-
 ## PC Builds
-![Build 1](pc-builds/build1.jpg)
-![Build 2](pc-builds/build2.jpg)
+
 
 ## 3D Prints
-![Print 1](3d-prints/print1.jpg)
-![Print 2](3d-prints/print2.jpg)
+
