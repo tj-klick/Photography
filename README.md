@@ -4,7 +4,7 @@ A collection of my product photography, PC Builds and 3D Prints
 
 ## Product Shots
 Gigabyte 9070XT
-<img src="product-shots/Gigabyte9070XT1.1.jpg" width="800" height="600">
+<img src="Product%20Shots/Gigabyte9070XT1.1.jpg" width="800" height="600">
 ![Gigabyte 9070XT](Product%20Shots/Gigabyte9070XT1.1.jpg)
 Maono PD100W 
 ![MAONO PD100W](Product%20Shots/MAONOpd100w1.jpg)
